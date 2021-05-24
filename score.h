@@ -7,7 +7,7 @@
 // 3. function prototypes (function declaration)
 
 #define MAX 300
-
+//  the comment is added local
 void input_scores(int []);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
